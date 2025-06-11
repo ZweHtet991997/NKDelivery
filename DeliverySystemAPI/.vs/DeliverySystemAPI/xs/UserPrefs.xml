@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6FCB3355-9120-4750-AC59-B4767884DC12}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeliverySystemAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/test/Documents/PyaePhyoSwe/DeliverySystem/api/Delivery-System/DeliverySystemAPI/Controllers/Order/ClientOrderController.cs" relfile="Controllers/Order/ClientOrderController.cs" line="76" column="1" />
+      <Breakpoint file="/Users/test/Documents/PyaePhyoSwe/DeliverySystem/api/Delivery-System/DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" relfile="Controllers/Account/RegisterLoginController.cs" line="92" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/Account/RegisterLoginController.cs">
+    <Files>
+      <File FileName="Controllers/Order/ClientOrderController.cs" />
+      <File FileName="Controllers/Account/RegisterLoginController.cs" Line="13" Column="19" />
+      <File FileName="Model/DefaultModel.cs" />
+      <File FileName="appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeliverySystemAPI">
+            <Node name="DeliverySystemAPI">
+              <Node name="Controllers" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="RegisterLoginController.cs" selected="True" />
+                </Node>
+                <Node name="Order" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

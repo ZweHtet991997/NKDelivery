@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeliverySystemAPI/appsettings.json">
+    <Files>
+      <File FileName="DeliverySystemAPI/Program.cs" Line="24" Column="15" />
+      <File FileName="DeliverySystemAPI/appsettings.json" Line="15" Column="13" />
+      <File FileName="DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" Line="133" Column="32" />
+      <File FileName="DeliverySystemAPI/Model/DefaultModel.cs" Line="12" Column="64" />
+      <File FileName="DeliverySystemAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeliverySystemAPI" expanded="True">
+            <Node name="DeliverySystemAPI">
+              <Node name="Controllers" expanded="True">
+                <Node name="Account" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DeliverySystemAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/test/Documents/PyaePhyoSwe/DeliverySystem/api/Delivery-System/DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" relfile="DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" line="95" column="1" />
+      <Breakpoint file="/Users/test/Documents/PyaePhyoSwe/DeliverySystem/api/Delivery-System/DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" relfile="DeliverySystemAPI/Controllers/Account/RegisterLoginController.cs" line="93" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

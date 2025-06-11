@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|c:\\myprojects\\nk_delivery\\delivery-system\\deliverysystemapi\\controllers\\order\\clientordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|solutionrelative:deliverysystemapi\\controllers\\order\\clientordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|c:\\myprojects\\nk_delivery\\delivery-system\\deliverysystemapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|solutionrelative:deliverysystemapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|c:\\myprojects\\nk_delivery\\delivery-system\\deliverysystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|solutionrelative:deliverysystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|c:\\myprojects\\nk_delivery\\delivery-system\\deliverysystemapi\\controllers\\account\\registerlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C34D0A7-0BAA-4D88-AF95-BCFB872C3440}|DeliverySystemAPI\\DeliverySystemAPI.csproj|solutionrelative:deliverysystemapi\\controllers\\account\\registerlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientOrderController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Controllers\\Order\\ClientOrderController.cs",
+              "RelativeDocumentMoniker": "DeliverySystemAPI\\Controllers\\Order\\ClientOrderController.cs",
+              "ToolTip": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Controllers\\Order\\ClientOrderController.cs",
+              "RelativeToolTip": "DeliverySystemAPI\\Controllers\\Order\\ClientOrderController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAtwFwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:33:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "DeliverySystemAPI\\Startup.cs",
+              "ToolTip": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Startup.cs",
+              "RelativeToolTip": "DeliverySystemAPI\\Startup.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:27:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterLoginController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Controllers\\Account\\RegisterLoginController.cs",
+              "RelativeDocumentMoniker": "DeliverySystemAPI\\Controllers\\Account\\RegisterLoginController.cs",
+              "ToolTip": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\Controllers\\Account\\RegisterLoginController.cs",
+              "RelativeToolTip": "DeliverySystemAPI\\Controllers\\Account\\RegisterLoginController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAkwJQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:27:25.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DeliverySystemAPI\\appsettings.json",
+              "ToolTip": "C:\\MyProjects\\NK_Delivery\\Delivery-System\\DeliverySystemAPI\\appsettings.json",
+              "RelativeToolTip": "DeliverySystemAPI\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T06:26:44.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
